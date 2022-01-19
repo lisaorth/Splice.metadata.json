@@ -1,0 +1,13 @@
+{
+  "name": "Patchwork",
+  "description": "Inspired by vintage textile patterns and patchwork.", 
+  "properties": {}, 
+  "splice": {
+    "creator_name": "Lisa Orth", 
+    "creator_twitter": "https://twitter.com/lisaorthstudio",
+    "creator_url": "https://linktr.ee/lisaorthstudio", 
+    "code_library": "p5.js", "p5.pattern library created by Taichi Sayama"
+    "code_library_version": "1.4.0",
+    "license": "CC BY-NC-ND 4.0", "MIT License"
+  } 
+}
